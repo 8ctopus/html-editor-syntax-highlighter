@@ -14,6 +14,8 @@ Add syntax highlighting to WordPress code editors using CodeMirror.js
 
 Add syntax highlighting in the Classic Post & Page HTML text editor, Gutenberg Code Editor, and Theme & Plugin editors using CodeMirror.js
 
+This is a fork of the wordpress plugin https://github.com/mukhortov/HESH-WordPress-Plugin/. Its sole purpose is to update the plugin.
+
 = Features =
 
 * Syntax highlighting in the Post/Page HTML editor
